@@ -1,0 +1,15 @@
+D:\Clean Architecture\TaskManagement\TaskManagement.Models\bin\Debug\net7.0\TaskManagement.Models.deps.json
+D:\Clean Architecture\TaskManagement\TaskManagement.Models\bin\Debug\net7.0\TaskManagement.Models.dll
+D:\Clean Architecture\TaskManagement\TaskManagement.Models\bin\Debug\net7.0\TaskManagement.Models.pdb
+D:\Clean Architecture\TaskManagement\TaskManagement.Models\bin\Debug\net7.0\TaskManagement.Shared.dll
+D:\Clean Architecture\TaskManagement\TaskManagement.Models\bin\Debug\net7.0\TaskManagement.Shared.pdb
+D:\Clean Architecture\TaskManagement\TaskManagement.Models\obj\Debug\net7.0\TaskManagement.Models.csproj.AssemblyReference.cache
+D:\Clean Architecture\TaskManagement\TaskManagement.Models\obj\Debug\net7.0\TaskManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clean Architecture\TaskManagement\TaskManagement.Models\obj\Debug\net7.0\TaskManagement.Models.AssemblyInfoInputs.cache
+D:\Clean Architecture\TaskManagement\TaskManagement.Models\obj\Debug\net7.0\TaskManagement.Models.AssemblyInfo.cs
+D:\Clean Architecture\TaskManagement\TaskManagement.Models\obj\Debug\net7.0\TaskManagement.Models.csproj.CoreCompileInputs.cache
+D:\Clean Architecture\TaskManagement\TaskManagement.Models\obj\Debug\net7.0\TaskManagement.Models.csproj.CopyComplete
+D:\Clean Architecture\TaskManagement\TaskManagement.Models\obj\Debug\net7.0\TaskManagement.Models.dll
+D:\Clean Architecture\TaskManagement\TaskManagement.Models\obj\Debug\net7.0\refint\TaskManagement.Models.dll
+D:\Clean Architecture\TaskManagement\TaskManagement.Models\obj\Debug\net7.0\TaskManagement.Models.pdb
+D:\Clean Architecture\TaskManagement\TaskManagement.Models\obj\Debug\net7.0\ref\TaskManagement.Models.dll
